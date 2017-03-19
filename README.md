@@ -1,7 +1,16 @@
-Auteur : Alexandra Ribeiro
-Date de réalisation : 02/2016
 
-Projet :
-Recoder la fonction printf
+# printf
 
-Makefile : création de la librairie libftprintf.a
+Description
+
+Recodez printf ! Ce sera l'occasion de découvrir une feature du C, les fonctions variadiques et de vous entrainer à la gestion fine des options d'affichage.
+
+Objectives :
+- Parsing
+- Fonctions variadiques
+
+Skills :
+- Algorithms & AI
+- Imperative programming
+- Rigor
+- Unix
